@@ -1,0 +1,24 @@
+body,
+h1, h3 {
+    font-family: "Raleway", Arial, sans-serif
+}
+
+h1, h3 {
+    letter-spacing: 6px
+}
+
+.w3-row-padding img {
+    margin-bottom: 12px
+}
+
+.quota {
+    font-style: italic
+}
+
+.grey {
+    color: #656565
+}
+
+.cover{
+    opacity: 0.5;
+}
